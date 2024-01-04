@@ -1,4 +1,4 @@
 init
 stable
 fix_on_main
-feature2
+feature2 fixed
